@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hotels location="Rwanda">
+    <hotel category="5-star">
+        <name>Radisson Blu Hotel & Convention Centre</name>
+        <url>https://www.radissonhotels.com/en-us/hotels/radisson-blu-kigali</url>
+        <rooms>
+                <room type="Single bedroom">
+                        <price>~142 USD</price>
+                        <description>Standard room with balcony, free WiFi, modern décor, king or twin beds.</description>
+                </room>
+                <room type="Double bedroom">
+                        <price>~220 USD</price>
+                        <description>Executive room with city view, seating area, premium amenities.</description>
+                </room>
+                <room type="Suite">
+                        <price>~350 USD</price>
+                        <description>Suite with separate living area, panoramic city view, luxury bath.</description>
+                </room>
+        </rooms>
+    </hotel>
+
+    <hotel category="5-star">
+        <name>Kigali Marriott Hotel</name>
+        <url>https://marriott.com</url>
+        <rooms>
+            <room type="Single bedroom">
+                <price>~205 USD</price>
+                <description>Standard room with modern amenities, king or twin beds, city view.</description>
+            </room>
+            <room type="Double bedroom">
+                <price>~300 USD</price>
+                <description>Deluxe room with larger space, seating area, premium bath.</description>
+            </room>
+            <room type="Suite">
+                <price>~450 USD</price>
+                <description>Suite with living area, luxury amenities, panoramic views.</description>
+            </room>
+        </rooms>
+    </hotel>
+
+    <hotel category="5-star">
+        <name>Park Inn by Radisson Kigali</name>
+        <url>https://www.radissonhotels.com</url>
+        <rooms>
+                <room type="Single bedroom">
+                        <price>~89 USD</price>
+                        <description>Standard room with modern amenities, comfortable king or twin beds.</description>
+                </room>
+                <room type="Double bedroom">
+                        <price>~140 USD</price>
+                        <description>Deluxe room with seating area and city view.</description>
+                </room>
+        </rooms>
+        
+    </hotel>
+
+    <hotel category="4 star">
+        <name>Kigali Serena Hotel</name>
+        <url>https://www.serenahotels.com</url>
+        <rooms>
+                <room type="Single bedroom">
+                        <price>~122 USD</price>
+                        <description>Superior room blending Rwandan décor with modern comfort.</description>
+                </room>
+                <room type="Double bedroom">
+                        <price>~180 USD</price>
+                        <description>Deluxe room with balcony and city or garden view.</description>
+                </room>
+                <room type="Suite">
+                        <price>~300 USD</price>
+                        <description>Suite with separate living area, luxury bath, premium view.</description>
+                </room>
+        </rooms>
+    </hotel>
+
+    <hotel category="4 star">
+        <name>Five to Five Hotel</name>
+        <url>https://fivetofivehotel.com</url>
+        <rooms>
+                <room type="Single bedroom">
+                        <price>~90 USD</price>
+                        <description>Standard double room with modern furnishings.</description>
+                </room>
+                <room type="Double bedroom">
+                        <price>~110 USD</price>
+                        <description>Twin room with two separate beds, shared or private amenities.</description>
+                </room>
+                <room type="Triple bedroom">
+                        <price>~130 USD</price>
+                        <description>Triple room for 3 adults, basic comfort and amenities.</description>
+                </room>
+        </rooms>
+    </hotel>
+
+    <hotel category="4 star">
+        <name>Ubumwe Grande Hotel</name>
+        <url>https://ubumwegrandehotel.com</url>        <rooms>
+                <room type="Single bedroom">
+                        <price>~150 USD</price>
+                        <description>Standard room with WiFi, HDTV, rain shower and bathtub.</description>
+                </room>
+                <room type="Double bedroom">
+                        <price>~220 USD</price>
+                        <description>Executive room with city view and premium amenities.</description>
+                </room>
+                <room type="Suite">
+                        <price>~350 USD</price>
+                        <description>Suite with living area, luxury bath, and panoramic city view.</description>
+                </room>
+        </rooms>
+    </hotel>
+
+    <hotel category="3 star">
+        <name>Lemigo Hotel</name>
+        <url>https://lemigohotel.com</url>
+        <rooms>
+                <room type="Single bedroom">
+                        <price>~115 USD</price>
+                        <description>Standard room with modern décor and basic amenities.</description>
+                </room>
+                <room type="Double bedroom">
+                        <price>~180 USD</price>
+                        <description>Deluxe room with garden view and enhanced amenities.</description>
+                </room>
+                <room type="Suite">
+                        <price>~250 USD</price>
+                        <description>Suite with living area, panoramic view, and luxury facilities.</description>
+                </room>
+        </rooms>
+    </hotel>
+
+    <hotel category="3 star">
+        <name>Hotel Chez Lando</name>
+        <url>https://www.chezlando.com</url>
+        <rooms>
+                <room type="Single bedroom">
+                        <price>~79 USD</price>
+                        <description>Standard room with balcony, minibar, and garden view.</description>
+                </room>
+                <room type="Double bedroom">
+                        <price>~120 USD</price>
+                        <description>Deluxe room with upgraded amenities and comfort.</description>
+                </room>
+        </rooms>
+    </hotel>
+
+    <hotel category="2 star">
+        <name>Great Hotel Kiyovu</name>
+        <url>https://www.greathotelkiyovu.rw</url>
+        <rooms>
+                <room type="Single bedroom">
+                        <price>~40 USD</price>
+                        <description>Single room, budget-friendly, includes breakfast.</description>
+                </room>
+                <room type="Double bedroom">
+                        <price>~60 USD</price>
+                        <description>Double/twin room, basic comfort, breakfast included.</description>
+                </room>
+        </rooms>
+    </hotel>
+
+    <hotel category="2 star">
+        <name>2000 Hotel</name>
+        <url>https://2000hotel.com</url>
+        <rooms>
+                <room type="Single bedroom">
+                        <price>~67 USD</price>
+                        <description>Standard room for 2 adults, basic amenities.</description>
+                </room>
+                <room type="Double bedroom">
+                        <price>~100 USD</price>
+                        <description>Deluxe room with additional space and comfort features.</description>
+                </room>
+        </rooms>
+    </hotel>
+
+</hotels>
